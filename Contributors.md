@@ -4,3 +4,4 @@
 - [itsmegarvi](https://github.com/itsmegarvi/) (**Garvit Shubham**) - _Initial author_
 - [RishabhSpark](https://github.com/RishabhSpark/) (**Rishabh Khandelwal**) - _Initial author_
 - [moinsheikh2017](https://github.com/moinsheikh2017/) (**Nazar E Moin Sheikh**) - _Initial author_
+- [sidkarma](https://github.com/sidkarma/) (**Siddhant Vishwakarma**) - _Initial author_
